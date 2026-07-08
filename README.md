@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kridha24/Leetcode/tree/master/0015-3sum) |
+| [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kridha24/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -53,9 +55,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kridha24/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kridha24/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
