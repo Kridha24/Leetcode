@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Kridha24/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Kridha24/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kridha24/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Kridha24/Leetcode/tree/master/0018-4sum) |
 | [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kridha24/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kridha24/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Kridha24/Leetcode/tree/master/0018-4sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kridha24/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kridha24/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Kridha24/Leetcode/tree/master/0018-4sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
