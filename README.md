@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
+| [3713-longest-balanced-substring-i](https://github.com/Kridha24/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
 | ------- |
@@ -93,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Kridha24/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Kridha24/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Kridha24/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
