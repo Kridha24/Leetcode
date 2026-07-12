@@ -1,24 +1,19 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        vector<int> temp = arr;
-        sort(temp.begin(), temp.end());
-
-        unordered_map<int, int> rank;
-        int r = 1;
-
-        // Assign ranks to unique elements
-        for (int num : temp) {
-            if (rank.find(num) == rank.end()) {
-                rank[num] = r++;
-            }
+        int n = arr.size();
+        if (n == 0) return {};
+        vector<int> res(n);
+        vector<pair<int,int>> temp(n);
+        for (int i = 0; i < n; i++) temp[i] = {arr[i],i};
+        sort(temp.begin(),temp.end(),[](pair<int,int> &a , pair<int,int> &b) {
+            return a.first < b.first;
+        });
+        res[temp[0].second] = 1;
+        for (int i = 1; i < n; i++) {
+            if (temp[i].first == temp[i - 1].first) res[temp[i].second] = res[temp[i - 1].second];
+            else res[temp[i].second] = res[temp[i - 1].second] + 1;
         }
-
-        // Replace elements with their ranks
-        for (int i = 0; i < arr.size(); i++) {
-            arr[i] = rank[arr[i]];
-        }
-
-        return arr;
+        return res;
     }
 };
