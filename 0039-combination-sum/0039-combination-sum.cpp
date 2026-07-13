@@ -1,31 +1,20 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> path;
-
-    void dfs(int idx, int target, vector<int>& candidates) {
-
-        if (target == 0) {
-            ans.push_back(path);
+    vector<vector<int>>res;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<int>cur;
+        backtrack(candidates,target,cur,0);
+        return res;
+    }
+    void backtrack(vector<int>&nums,int target, vector<int>&cur, int i){
+        if(target==0){
+            res.push_back(cur);
             return;
         }
-
-        if (idx == candidates.size() || target < 0)
-            return;
-
-        // Take current candidate
-        path.push_back(candidates[idx]);
-        dfs(idx, target - candidates[idx], candidates);
-        path.pop_back();
-
-        // Skip current candidate
-        dfs(idx + 1, target, candidates);
-    }
-
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-
-        dfs(0, target, candidates);
-
-        return ans;
+        if(target<0 || i>=nums.size()) return;
+        cur.push_back(nums[i]);
+        backtrack(nums,target-nums[i],cur,i);
+        cur.pop_back();
+        backtrack(nums,target,cur,i+1);
     }
 };
