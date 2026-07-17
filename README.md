@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kridha24/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Kridha24/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Kridha24/Leetcode/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/Kridha24/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kridha24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kridha24/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kridha24/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Kridha24/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Kridha24/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kridha24/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kridha24/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Kridha24/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Kridha24/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kridha24/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Kridha24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kridha24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kridha24/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Kridha24/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kridha24/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kridha24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kridha24/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kridha24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kridha24/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Kridha24/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kridha24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
