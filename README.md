@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kridha24/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Kridha24/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Kridha24/Leetcode/tree/master/0029-divide-two-integers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kridha24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kridha24/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kridha24/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Kridha24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kridha24/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/Kridha24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kridha24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kridha24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kridha24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kridha24/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kridha24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -174,10 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Kridha24/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Kridha24/Leetcode/tree/master/0037-sudoku-solver) |
 | [1331-rank-transform-of-an-array](https://github.com/Kridha24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/Kridha24/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/Kridha24/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -235,9 +240,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kridha24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kridha24/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kridha24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kridha24/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kridha24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -245,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kridha24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
