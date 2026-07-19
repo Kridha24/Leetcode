@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Kridha24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kridha24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kridha24/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Kridha24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kridha24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Kridha24/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kridha24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kridha24/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kridha24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
