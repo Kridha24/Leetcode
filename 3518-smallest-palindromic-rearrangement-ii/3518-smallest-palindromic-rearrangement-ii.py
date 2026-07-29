@@ -1,55 +1,44 @@
-import math
-from collections import Counter
-
 class Solution:
-    def smallestPalindrome(self, s: str, k: int) -> str:
-        # Step 1: Get counts of all characters
-        counts = Counter(s)
-        half_counts = {}
-        mid_char = ""
-        L = 0
-        
-        for char, freq in counts.items():
-            # If the frequency is odd, this character must be in the middle
-            if freq % 2 != 0:
-                mid_char = char
-            
-            # Divide frequencies by 2 for the first half of the palindrome
-            if freq // 2 > 0:
-                half_counts[char] = freq // 2
-                L += freq // 2
-                
-        # Step 2: Calculate the total number of permutations of the first half
-        T = math.factorial(L)
-        for freq in half_counts.values():
-            T //= math.factorial(freq)
-            
-        # If k is greater than the total number of unique permutations, return empty string
-        if k > T:
-            return ""
-            
-        # Step 3: Build the first half character by character
-        first_half = []
-        chars = sorted(half_counts.keys())
-        curr_L = L
-        
-        for _ in range(L):
-            for c in chars:
-                if half_counts[c] > 0:
-                    # Calculate permutations available if we choose character `c`
-                    # Mathematically this is equivalent to: T_c = T * (half_counts[c] / curr_L)
-                    T_c = T * half_counts[c] // curr_L
-                    
-                    if k <= T_c:
-                        first_half.append(c)
-                        half_counts[c] -= 1
-                        T = T_c
+    def smallestPalindrome(self, S: str, K: int) -> str:
+        import collections, math
+        n = len(S)
+        ans = [""] * n
+        count = collections.Counter(S[: n // 2])
+        if n & 1:
+            ans[n // 2] = S[n // 2]
+        tot = 0
+        ways = 1
+        i = 0
+        for c in sorted(count, reverse=True):
+            tot += count[c]
+            ways *= math.comb(tot, count[c])
+            if ways > K:
+                for c2 in sorted(count):
+                    if c2 >= c:
                         break
+                    for loops in range(count[c2]):
+                        ans[i] = ans[~i] = c2
+                        i += 1
+                    count[c2] = 0
+        ways = 1
+        tot = sum(count.values())
+        for k in sorted(count):
+            ways *= math.comb(tot, count[k])
+            tot -= count[k]
+        if ways < K:
+            return ""
+        tot = sum(count.values())
+        while tot:
+            for c in sorted(count):
+                if count[c]:
+                    ways2 = ways * count[c] // tot
+                    if ways2 < K:
+                        K -= ways2
                     else:
-                        k -= T_c
-                        
-            curr_L -= 1
-                        
-        # Step 4: Combine the first half, middle character, and the reversed first half
-        res = "".join(first_half)
-        return res + mid_char + res[::-1]
+                        ans[i] = ans[~i] = c
+                        i += 1
+                        ways = ways2
+                        count[c] -= 1
+                        tot -= 1
+                        break
+        return "".join(ans)
