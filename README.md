@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Kridha24/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kridha24/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kridha24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kridha24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kridha24/Leetcode/tree/master/0029-divide-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kridha24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph Theory
 |  |
 | ------- |
