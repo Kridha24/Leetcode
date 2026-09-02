@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kridha24/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Kridha24/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Kridha24/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Kridha24/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Kridha24/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1872-stone-game-viii](https://github.com/Kridha24/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kridha24/Leetcode/tree/master/1927-sum-game) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kridha24/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Kridha24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kridha24/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Kridha24/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kridha24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Kridha24/Leetcode/tree/master/1927-sum-game) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kridha24/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Kridha24/Leetcode/tree/master/0067-add-binary) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kridha24/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kridha24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kridha24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kridha24/Leetcode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Kridha24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kridha24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
