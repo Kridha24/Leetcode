@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Kridha24/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kridha24/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kridha24/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Kridha24/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kridha24/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kridha24/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kridha24/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Kridha24/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kridha24/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kridha24/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kridha24/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
