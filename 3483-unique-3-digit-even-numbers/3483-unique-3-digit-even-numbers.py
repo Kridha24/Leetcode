@@ -1,21 +1,33 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        count = [0] * 10
+        from collections import defaultdict
 
-        for digit in digits:
-            count[digit] += 1
+        freq = defaultdict(int)
+       
+        uniq_even = set()
+        count = 0
+        for d in digits:
+            if d%2 == 0:
+                uniq_even.add(d)
+            freq[d]+=1
 
-        answer = 0
+        for e in uniq_even:
+            freq[e]-=1
 
-        for number in range(100, 1000, 2):
-            required = [0] * 10
-            value = number
-
-            while value:
-                required[value % 10] += 1
-                value //= 10
-
-            if all(required[digit] <= count[digit] for digit in range(10)):
-                answer += 1
-
-        return answer
+            keys = [k for k in freq if freq[k]>0]
+            for i in range(len(keys)):
+                for j in range(i+1,len(keys)):
+                    a,b = keys[i], keys[j]
+                    ## a,b,e 
+                    if a!=0:
+                        count+=1
+                    if b!=0:
+                        count+=1
+                    
+            for num in keys:
+                if freq[num] >=2 and num!=0 :
+                    ## num num e
+                    count+=1
+            freq[e]+=1
+        
+        return count
