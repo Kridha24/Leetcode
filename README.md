@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kridha24/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kridha24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kridha24/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0835-image-overlap](https://github.com/Kridha24/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kridha24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Kridha24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kridha24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Kridha24/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Kridha24/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Kridha24/Leetcode/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/Kridha24/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kridha24/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Breadth-First Search
 |  |
