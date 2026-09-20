@@ -1,9 +1,9 @@
 class Solution:
     def reverseDegree(self, s: str) -> int:
-        total = 0
 
-        for position, ch in enumerate(s, start=1):
-            value = ord('z') - ord(ch) + 1
-            total += value * position
+        ans, idx = 0, 1
+        for ch in s:
+            ans+= (123 - ord(ch)) * idx
+            idx+= 1
 
-        return total
+        return ans    
