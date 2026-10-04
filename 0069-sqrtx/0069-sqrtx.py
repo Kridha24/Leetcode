@@ -15,4 +15,7 @@ class Solution:
             else:
                 right = mid - 1
 
-        return answer       
+        return answer    
+
+ # this is solved by binary search and its time complexity is o(log n )
+ # simply we devide it into mid then compare and compare until round off value and neares root valus isnot found .           
